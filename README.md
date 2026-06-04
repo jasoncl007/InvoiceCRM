@@ -59,5 +59,18 @@ MIT License - Free for personal and commercial use.
 ⭐ Star this repo if you like it!
 https://img.shields.io/github/stars/JasonCL007/InvoiceCRM?style=social
 https://img.shields.io/github/forks/JasonCL007/InvoiceCRM?style=social
+## 📸 Screenshots
+
+| Dashboard | Invoice | QR Scanner |
+|-----------|---------|------------|
+| ![Dashboard](Screenshot_1.png) | ![Invoice](Screenshot_2.png) | ![QR Scanner](Screenshot_3.png) |
+
+| Payment History | Dark Mode | Printer Setup |
+|-----------------|-----------|---------------|
+| ![Payment](Screenshot_4.png) | ![Dark Mode](Screenshot_5.png) | ![Printer](Screenshot_6.png) |
+
+| Dashboard Chart | All Invoices |
+|-----------------|--------------|
+| ![Chart](Screenshot_7.png) | ![Invoices](Screenshot_8.png) |
 
 Made with ❤️ by JasonCL007
